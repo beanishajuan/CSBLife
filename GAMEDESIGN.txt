@@ -1,0 +1,11 @@
+Link: http://gamedev.stackexchange.com/questions/14918/what-is-the-purpose-of-having-lives
+
+Topic: What is the purpose of having lives?
+
+I think in game design it is incredibly important to ask the question why about everything, especially something that has become so standard as lives. 
+So I am asking, what is the purpose of a game having the concept of lives? Why have lives?
+
+Answer:
+Giving the player a limited number of lives pushes the player to do his/her best. With this, the replayability of the game is increased since the players are expected to lose a number of times depending on the difficulty of the game. Having lives also makes the players more tensed and challenged making them want to play the game more and more.
+ And because of the competition of players who strive to show that they are better at that game without losing much, the game garners more popularity. Including a limited number of lives also has a lot of downsides.
+ Most casual players detract from these type of games since it may be too difficult or time consuming for them while most hardcore gamers want games  with limited number of lives. Some players are also turned off quite early during the game since they feel that the it will only get harder as they progress deeper into the game.
